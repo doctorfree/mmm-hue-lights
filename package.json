@@ -1,0 +1,25 @@
+{
+	"name": "mmm-hue-lights",
+	"version": "1.0.0",
+	"description": "A MagicMirror² module that displays the status of Philips Hue Lights.",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/doctorfree/mmm-hue-lights"
+	},
+	"keywords": [
+		"smart mirror",
+		"magicmirror",
+		"mirror",
+		"module",
+		"hue lights"
+	],
+	"author": "Ronald Joe Record",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/doctorfree/mmm-hue-lights/issues"
+	},
+	"homepage": "https://github.com/doctorfree/mmm-hue-lights#readme",
+	"dependencies": {
+		"request": "^2.88.2"
+	}
+}
